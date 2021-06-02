@@ -3,7 +3,7 @@ Game Engine written in Java. In this project user can make his own map with give
 
 If you want to just try to play this game without creating your own, just press LOAD MAP at the beginning and you can start. If you want to create your own then you should read USER MANUAL in Wiki tab first.
 
-![image1](https://github.com/jordyner/RpgEngine/master/rpgImages/image1.png?raw=true)
+![image1](https://github.com/jordyner/RpgEngine/blob/master/rpgImages/image1.PNG?raw=true)
 
 ![image2](rpgImages\image2.png)
 

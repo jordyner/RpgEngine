@@ -5,6 +5,6 @@ If you want to just try to play this game without creating your own, just press 
 
 ![image1](https://github.com/jordyner/RpgEngine/blob/master/rpgImages/image1.PNG?raw=true)
 
-![image2](rpgImages\image2.png)
+![image2](https://github.com/jordyner/RpgEngine/blob/master/rpgImages/image2.PNG?raw=true)
 
-![image3](rpgImages\image3.png)
+![image3](https://github.com/jordyner/RpgEngine/blob/master/rpgImages/image3.PNG?raw=true)
